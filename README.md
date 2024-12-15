@@ -22,8 +22,9 @@ pip install watercrawl-openai
 ## Usage
 To use this plugin in your Watercrawl project, import it as follows:
 
+In the WaterCrawl project environments add the following:
 ```python
-TODO: complete this section
+WATER_CRAWL_PLUGINS="watercrawl_openai.OpenAIPlugin,...rest_of_plugins"
 ```
 
 ## Configuration
