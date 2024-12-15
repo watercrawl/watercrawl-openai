@@ -1,0 +1,22 @@
+[project]
+name = "watercrawl-openai"
+version = "0.0.1"
+authors = [
+  { name="AmirMohsen Asaran", email="info@watercrawl.ai" },
+]
+description = "WaterCrawl OpenAI Plugin"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "watercrawl-plugin>=0.0.1",
+    "openai==1.57.4",
+]
+
+[project.urls]
+Homepage = "https://github.com/watercrawl/watercrawl-openai"
+Issues = "https://github.com/watercrawl/watercrawl-openai/issues"
