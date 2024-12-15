@@ -3,7 +3,7 @@
 __version__: 0.0.1
 __author__: Watercrawl
 
-[![PyPI version](https://badge.fury.io/py/watercrawl-openai.svg)](https://badge.fury.io/py/watercrawl-plugin)
+[![PyPI version](https://badge.fury.io/py/watercrawl-openai.svg)](https://badge.fury.io/py/watercrawl-openai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
