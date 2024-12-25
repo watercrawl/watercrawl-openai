@@ -1,6 +1,6 @@
 [project]
 name = "watercrawl-openai"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
   { name="AmirMohsen Asaran", email="info@watercrawl.ai" },
 ]
@@ -13,8 +13,8 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "watercrawl-plugin>=0.0.1",
-    "openai==1.57.4",
+    "watercrawl-plugin>=0.1.0",
+    "openai==1.58.1",
 ]
 
 [project.urls]
